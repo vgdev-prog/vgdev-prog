@@ -10,8 +10,6 @@
 Full - stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 
-- :telescope: Здесь в будущем будет ссылка на портфолио.
-
 - :zap: При возможности стараюсь браться за сложные и интересные идеи.
 
 - :mailbox: Как связаться со
